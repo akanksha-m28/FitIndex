@@ -6,3 +6,5 @@ It empowers users to monitor their physical health by providing precise Body Mas
 and a persistent measurement history.
 The app features a modern, card-based UI designed for high readability, featuring dynamic feedback messages, real-time data validation,
 and a seamless navigation system to track long-term fitness progress and health trends.
+
+![Calculator Screen](./docs/screenshots/calculator.jpg)
